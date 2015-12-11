@@ -13,7 +13,8 @@ var robot = {
 var robby = {};
 
 // use __proto__ to create inheritance
-
+robot.__proto__ = machine;
+robby.__proto__ = robot;
 
 // make both of the consle.log ´s print out 'true'
 console.log(4 === robby.motors);
