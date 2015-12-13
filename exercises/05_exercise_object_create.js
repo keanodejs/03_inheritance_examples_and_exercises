@@ -33,7 +33,7 @@ console.log(Object.getPrototypeOf(Object)); // -> [Function: Empty]
 
 // Draw on a piece of paper the inheritance diagram for your solution
 
-// https://drive.google.com/open?id=0BzLKPZ6IszLEbU9uMkFKUzJrSHc
+// https://drive.google.com/file/d/0BzLKPZ6IszLEbU9uMkFKUzJrSHc/view?usp=sharing
 
 
 
